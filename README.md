@@ -78,3 +78,7 @@ Based on these trends, I would make the following recommendations for the Des Mo
 
 ### Further Analysis:
 
+Given the available data, I would make the following recommendations for further analysis:
+1. Given the relatively lower usage rates among women, it would be helpful to identify more patterns around women riders. I would investigate what start/end stations are most or least popular for female riders. 
+2. Similarly, it would be helpful to identify certain common traits among subscribers, since they are likely to use the service more frequently. I would include gender on the map of popular start/stop locations to investigate whether the subscribers are more common in particular neighborhoods.
+3. Finally, external to this data set, it would be beneficial to accompany these results with a demographic map of Des Moines using the available census data in Tableau. A heat map showing the male population percentage in the greater Des Moines region would allow us to identify certain neighborhoods or districts where rider stations are most likely to be popular among the target demographic.
