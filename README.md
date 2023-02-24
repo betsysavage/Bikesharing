@@ -63,4 +63,18 @@ The city of Manhattan is popular for starting rides.
 More than three quarters of riders are Citibike subscribers.
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+The graphs above can be summarized by the following:
+1. Males comprise the majority of usage of the Citibikes. They ride most freqently before and after working hours on weekdays.
+2. Most users of Citibikes subscribe to the service, and ridership is heavy among subscribers compared to non-subscribers.
+3. Citibikes are often used for quick trips (around 10 minutes) around urban locations.
+
+### Recommendations:
+
+Based on these trends, I would make the following recommendations for the Des Moines market:
+1. Market heavily to males, who are the target demographic.
+2. Offer incentives, such as discounts, to become subscribers to Citibike, as subscribers will use the service most frequently.
+3. In marketing materials, emphasize the potential for Citibikes to be used for commuting to and from work.
+
+### Further Analysis:
+
